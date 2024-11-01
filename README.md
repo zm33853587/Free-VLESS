@@ -24,3 +24,37 @@ Cloudflare Worker 可以用来处理 HTTP 请求，从而允许开发者通过�
 
 V2raySSR综合网，[详情地址](https://v2rayssr.com/worker-vless.html)
 
+## 其他【[https://v2rayssr.com/worker-vless.html](https://v2rayssr.com/worker-vless.html)】
+CM 维护
+proxyip.us.fxxk.dedyn.io 
+IP落地区域: 美国 维护频率: 12小时/次
+proxyip.sg.fxxk.dedyn.io 
+IP落地区域: 新加坡 维护频率: 12小时/次
+proxyip.jp.fxxk.dedyn.io 
+IP落地区域: 日本 维护频率: 12小时/次
+proxyip.hk.fxxk.dedyn.io
+IP落地区域: 香港 维护频率: 12小时/次
+proxyip.aliyun.fxxk.dedyn.io 
+IP落地区域: 阿里云 维护频率: 4小时/次
+proxyip.oracle.fxxk.dedyn.io 
+IP落地区域: 甲骨文 维护频率: 4小时/次
+proxyip.digitalocean.fxxk.dedyn.io 
+IP落地区域: 数码海 维护频率: 4小时/次
+ 
+白嫖哥维护
+workers.cloudflare.cyou
+ 
+Mingyu维护
+my-telegram-is-herocore.onecf.eu.org
+sg.ipdb.rr.nu
+nl.ipdb.rr.nu
+hk.ipdb.rr.nu
+jp.ipdb.rr.nu
+us.ipdb.rr.nu
+ 
+小一维护
+hk.cf.zhetengsha.eu.org
+sg.cf.zhetengsha.eu.org
+us.cf.zhetengsha.eu.org
+jp.cf.zhetengsha.eu.org
+
